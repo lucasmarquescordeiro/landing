@@ -377,6 +377,19 @@ tfoot td, table th {
 
 
 @media (max-width: 800px) {
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
+
+    h3 {
+        font-size: 3rem;
+    }
+
     .intro-content, .grid {
         grid-template-columns: 1fr;
     }
